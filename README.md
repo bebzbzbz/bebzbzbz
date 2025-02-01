@@ -1,5 +1,5 @@
 ## Hey, Bee here 🌱
-Aspiring frontend developer and current web dev bootcamp student focusing on TypeScript and React 
+Aspiring frontend developer and current web dev bootcamp student focusing on TypeScript and React  
 🐸 Pronouns they/them (en), dey/dem/deren (de)  🗺 Berlin, Germany 
 
 ## Languages and tools
