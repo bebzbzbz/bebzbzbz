@@ -1,5 +1,6 @@
 ## Hey, Bee here 🌱
-Aspiring frontend developer and current web dev bootcamp student focusing on TypeScript and React. I'm also passionate about designing, drawing and love crochet and audiobooks.
+Aspiring frontend developer and current web dev bootcamp student focusing on TypeScript and React. 
+I'm also passionate about designing, drawing and love crochet and audiobooks.
 
 ## Socials 🌀 
 <ul>
