@@ -5,7 +5,7 @@ I'm also passionate about designing, drawing and love crochet and audiobooks.
 ## Socials 🌀 
 <ul>
   <li>
-    <a href="www.linkedin.com/in/beatrice-balzer">LinkedIn</a> 
+    <a href="https://www.linkedin.com/in/beatrice-balzer">LinkedIn</a> 
   </li>
 </ul>
 
