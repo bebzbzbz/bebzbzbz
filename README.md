@@ -1,9 +1,11 @@
 ## Hey, Bee here 🌱
-Aspiring frontend developer and current web dev bootcamp student focusing on TypeScript and React. 
-I'm also passionate about designing, drawing and love crochet and audiobooks.
+Frontend developer, but also passionate about designing and drawing. Also love crochet and audiobooks.
 
 ## Socials 🌀 
 <ul>
+  <li>
+    <a href="https://beatricebalzer.vercel.app/">My Portfolio</a> 
+  </li>
   <li>
     <a href="https://www.linkedin.com/in/beatrice-balzer">LinkedIn</a> 
   </li>
