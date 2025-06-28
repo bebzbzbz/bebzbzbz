@@ -1,4 +1,4 @@
-## Hey, Bee here 🌱
+## Hey, Bea/Bert here 🌱
 Frontend developer, but also passionate about design and drawing. Also love crochet and audiobooks.
 
 ## Socials 🌀 
