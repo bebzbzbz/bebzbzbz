@@ -1,4 +1,4 @@
-## Hey, Bea here 🌱
+# Hey, Bea here 🌱
 
 ## Socials 🌀 
 <ul>
